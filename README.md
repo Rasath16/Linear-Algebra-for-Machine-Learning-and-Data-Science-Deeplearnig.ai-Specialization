@@ -1,4 +1,4 @@
-# Mathematics for Machine Learning and Data Science – Linear Algebra  
+# Linear Algebra for Machine Learning and Data Science – Linear Algebra  
 
 This repository contains my **handwritten notes, slides, and Python notebooks** from the **Linear Algebra** course in the *Mathematics for Machine Learning and Data Science Specialization* by [DeepLearning.AI](https://www.deeplearning.ai/).  
 
